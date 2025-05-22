@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**AltheaCappelli/AltheaCappelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +8,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+$\huge{\bf{\color{yellow}{\text{Hello and welcome to my GitHub :) 👋}}}}$  
+
+Here I explore ideas and projects I find interesting, mostly around __machine learning, data visualization and analysis__. With bachelor's and master's degrees in physics, and a strong background in _theoretical physics_, I’m comfortable working with complex data and programming, but I’m still eager to push myself further and learn new things.  
+You can check out my projects on [my website](https://altheacappelli.github.io/), and contact me by email at tea.cappelli@gmail.com!
